@@ -1,2 +1,2 @@
-# git337.io
+# git337
 assignments for GIT337
